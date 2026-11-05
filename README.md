@@ -16,7 +16,7 @@ Studente di **Informatica** presso l'**Università della Calabria**. Nutro una p
 
 
 ### 🚀 Focus Attuale
-- 🔭 Provo a migliorare me stesso ogni giorno nel coding e problem solving con l'ausilio della piattaforma online <a href="https://www.codewars.com/dashboard" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars" valign="middle" /></a>
+- 🔭 mi piace cimentarmi in nuove idee e scoprire fino a che limite l'informatica può spingersi.
 - 📚 Approfondisco lo sviluppo di idee in vari linguaggi di programmazione.
 - 💡 Sperimento con progetti Open Source.
 
