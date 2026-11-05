@@ -25,28 +25,23 @@ Studente di **Informatica** presso l'**Università della Calabria**. Nutro una p
 
 
 
+
 ### 📊 GitHub Insights 2026
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Redemax-Gamer04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redemax-Gamer04&layout=compact&theme=tokyonight&hide_border=true&hide=perl,shell,makefile"
-    alt="Most Used Languages"
+    width="100%"
+    src="https://raw.githubusercontent.com/Redemax-Gamer04/Redemax-Gamer04-stats/main/assets/github-stats.svg"
+    alt="Statistiche GitHub di Redemax-Gamer04"
   />
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com/?user=Redemax-Gamer04&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <a href="https://github.com/Redemax-Gamer04/Redemax-Gamer04-stats">
+    Visualizza il generatore delle statistiche
+  </a>
 </p>
+
 
 
 
